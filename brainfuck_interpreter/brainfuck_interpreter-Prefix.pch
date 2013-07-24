@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'brainfuck_interpreter' target in the 'brainfuck_interpreter' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
